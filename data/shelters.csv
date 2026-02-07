@@ -1,0 +1,6 @@
+shelterId,name,capacity,assigned,riskLevel
+S01,Shelter A,5,0,LOW
+S02,Shelter B,5,0,LOW
+S03,Shelter C,5,0,MEDIUM
+S04,Shelter D,5,0,LOW
+S05,Shelter E,5,0,HIGH
